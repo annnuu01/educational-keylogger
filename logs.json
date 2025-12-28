@@ -1,0 +1,112 @@
+[
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:42.382191"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:42.889930"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:42.921387"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:42.952771"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:42.984498"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:43.016894"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:43.050313"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:43.081675"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:43.113864"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:43.146230"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:43.178250"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:43.210465"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:43.244465"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:43.275553"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:43.309033"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:43.339898"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:43.373524"
+    },
+    {
+        "event": "Pressed",
+        "key": "Key.cmd",
+        "time": "2025-12-28 09:17:43.379177"
+    },
+    {
+        "event": "Pressed",
+        "key": "'S'",
+        "time": "2025-12-28 09:17:43.690141"
+    },
+    {
+        "event": "Released",
+        "key": "'S'",
+        "time": "2025-12-28 09:17:44.154365"
+    },
+    {
+        "event": "Released",
+        "key": "Key.cmd",
+        "time": "2025-12-28 09:17:44.180718"
+    },
+    {
+        "event": "Released",
+        "key": "Key.shift",
+        "time": "2025-12-28 09:17:44.280209"
+    }
+]
